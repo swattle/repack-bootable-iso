@@ -1,5 +1,6 @@
 # Repack bootable ISO
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 
 Perl script for editing and repacking any ISO file into a bootable image. Script authored by Intel Corporation. Modified and redistributed by Swattle to accustom repacking of latest images. 
 
