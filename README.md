@@ -94,11 +94,11 @@ If not yet, go back to your `custom` folder.
 
 Copy this line, modify it and paste it in order to create the .iso
 
-`sudo mkisofs -o output.iso -b isolinux.bin -c boot.cat -no-emul-boot -boot-load-size 4 -boot-info-table -J -R -V "Ubuntu Custom ISO Preseed" .`
+`sudo mkisofs -o output.iso -b isolinux.bin -c boot.cat -no-emul-boot -boot-load-size 4 -boot-info-table -J -R -V "Custom ISO Preseed" .`
 
 ### Make it bootable with isohybrid
 
-Use the `isohybrid.pl` file of this gist like the following:
+Use the `isohybrid.pl` file of this repo like the following:
 
 `sudo perl isohybrid.pl output.iso`
 
@@ -109,7 +109,6 @@ Don't forget to do it, or you will can't be able to delete the `ro_iso` folder
 `umount /dev/disk2`
 
 `hdiutil detach /dev/disk2`
-
 
 You now have a bootable USB iso file :)
 
