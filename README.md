@@ -102,7 +102,7 @@ Use the `isohybrid.pl` file of this repo like the following:
 
 `sudo perl isohybrid.pl output.iso`
 
-### umount and detach
+### Umount and detach
 
 Don't forget to do it, or you will can't be able to delete the `ro_iso` folder
 
