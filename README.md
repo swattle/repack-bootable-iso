@@ -144,4 +144,4 @@ $ git push origin
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 <p align="center"> Copyright (c) 2020 Swattle Inc. All rights reserved.</p>
-<p align="center"> Made with ❤ by <a href="https://github.com/swattle">Swattle</a></p>
+<p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
